@@ -4,4 +4,4 @@ Learning and technology enthusiast.
 
 You can follow my work on:
 
-* 💻 My development blog: [edgarojeda.dev](https://edgarojeda.dev/)
+* 💻 My development blog: [edgarojeda.dev](https://www.edgarojeda.dev/)
